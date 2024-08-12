@@ -1,1 +1,4 @@
-it's a portfolio
+A portfolio by ✓Akash.
+> Smooth glowing effects
+> hovering effects
+>      Thank you :)
