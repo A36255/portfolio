@@ -1,0 +1,100 @@
+*{
+    color: white;
+  }
+  body{
+    background-color:black;
+  }
+  .Aka{
+    text-shadow: 0 0 5px white, 0 0 25px white;
+  }
+  .sh{
+    color: crimson;
+    text-shadow: 0 0 5px crimson,0 0 25px
+    crimson, 0 0 30px crimson;
+  }
+  .dot{
+    color: white;
+  }
+  .text1{
+    font-size: 35px;
+    font-weight: 600;
+    font-family: sans-serif;
+  }
+  .text2{
+    font-size:45px;
+    font-weight: 900;
+    font-family: sans-serif;
+    color:crimson;
+  }
+  .text3{
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .text4{
+    font-size: 35px;
+    font-weight: 600;
+  }
+  button{
+    height: 50px;
+    width: 130px;
+    border-radius: 25px;
+    border:none;
+    background-color: crimson;
+    font-size:16px;
+    font-weight: 500;
+    transition: 0.8s;
+     box-shadow: 0 0 5px crimson, 0 0 25px crimson, 0 0 50px crimson, 0 0 100px crimson;
+  }  
+  .my-info{
+    font-size: 25px;
+    text-align: center;
+  }
+  .content-hello{
+    color: crimson;
+    text-shadow: 0 0 5px crimson, 0 0 25px crimson;
+  }
+  .content-hello:hover{
+    transform: translateY(-10px);
+  }
+  .content-info{
+    border: none;
+    font-size: 17px;
+    height: 200px;
+    background-color:black;
+    border-radius: 20px;
+    padding:50px;
+    text-align: center;
+  }
+  .my-skills{
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+  }
+  .skills-underline{
+    width: 120px;
+    background-color: crimson;
+  }
+  .content-title{
+    font-size: 20px;
+  }
+  .content-box{
+    font-size: 17px;
+    height: 200px;
+    background-color: crimson;
+    border-radius: 20px;
+    border: 1px solid crimson;
+    padding:50px;
+    text-align: center;
+    transition: 0.5s;
+  }
+  .content-box:hover{
+    box-shadow: 0 0 25px crimson, 0 0 25px crimson;
+  }
+  
+  .copyright{
+    text-align: center;
+    margin-top:30px;
+  }
+  .sh2{
+    color: crimson;
+  }
