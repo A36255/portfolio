@@ -1,4 +1,3 @@
 A portfolio by ✓Akash.
-> Smooth glowing effects
-> hovering effects
->      Thank you :)
+> Smooth glowing effects and hovering effects Thank you :)
+>      
